@@ -1,4 +1,4 @@
-                                                                            --- Check Weather Conditions ---
+      --- Check Weather Conditions ---
 
 * A simple, responsive weather application that displays current weather details (feels-like temperature, humidity, wind speed, pressure) for a given location.
 
